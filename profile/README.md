@@ -1,3 +1,5 @@
-## Equipping the world with a backend to verify the source and license of digital content!
+## VERIFY
 
 Check out or [Dev docs](https://docs.verifymedia.com/) to learn more!
+
+Also our [site](https://www.verifymedia.com/)!
